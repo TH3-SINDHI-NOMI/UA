@@ -5,6 +5,6 @@ git clone https://github.com/TH3-SINDHI-NOMI/UA
 
 cd UA
 
-python Ugen.py
+python UgenMaker.py
 
 python DevName.py
